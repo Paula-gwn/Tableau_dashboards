@@ -6,7 +6,8 @@ An interactive Tableau dashboard that reveals what drives sales and profit acros
 - Compare performance by **Region / Category / Sub-Category**
 - Identify ship modes and geographies eroding margin
 ## Profit Margin = Profit ÷ Sales × 100
-It tells you what percentage of sales is left as profit after costs.
+It tells you what percentage of sales is left as profit after costs.  
+This KPI shows the percentage of sales revenue that remains after costs. A higher margin indicates greater profitability efficiency, while a lower margin highlights areas where costs may be too high or discounts too deep.
 
 ## Project Description:  
 An interactive Tableau dashboard analyzing sales and profit performance from the Sample Superstore dataset. The dashboard highlights regional trends, product category profitability, and top-selling products.  
